@@ -3,9 +3,6 @@ body {
     text-align: center;
 }
 
-hr {
-    width: 500px;
-}
 
 #errors {
     color: darkblue;
