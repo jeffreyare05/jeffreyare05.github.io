@@ -95,3 +95,7 @@ function selectTile() {
     }
 }
 
+if (board = solution) {
+    
+    document.write("Hello");
+}
